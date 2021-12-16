@@ -7,7 +7,7 @@ Charles (Hank) Bukowski & William (Billy) Shakespeare could not be more differen
 
 Charles Bukowski on the other hand is best known for his writings on alcohol and generally just being a gross old man. (For more information on his debauched lifestyle, just read any of his books.)
 
-But did you know that Bukowski and Shakespeare both (link Bukowski HTML https://www.latimes.com/archives/la-xpm-1988-09-04-bk-2354-story.html liked to street-fight (link Shakespeare html: https://www.bbc.co.uk/programmes/b01g65gz? And since we can’t watch Shakespeare and Bukowski duke it out for poetic supremacy in the 21st century, we can use the internet to have them fight it out virtually. 
+But did you know that Bukowski and Shakespeare bothliked to street-fight? And since we can’t watch Shakespeare and Bukowski duke it out for poetic supremacy in the 21st century, we can use the internet to have them fight it out virtually. 
 
 But wait, Bukowski got too drunk and needs your help writing his poem to try and beat Shakespeare. That is where Bukowski V. Shakespeare comes in. 
 
@@ -18,10 +18,6 @@ Having a stronger poem than Shakespeare means that you and Bukowski (mostly you)
 Good luck and don’t forget that Hank has a tire iron in his trunk and he knows how to use it!
 
 How is this game coded? Using Javascript, CSS, & HTML (how optimize for chrome?). See below for more info.
-
-Wire Frame:
-
-https://www.figma.com/file/fFhUc3HPxhbeZo6PVvDf4T/Untitled?node-id=0%3A1
 
 Classes: 
 
